@@ -1,0 +1,14 @@
+///To make this code working you have to change the save file directory to your PC directory.\\\
+
+
+For the Login page in (Home frame) at line 20 (used only for checking if users have been created) File f
+
+For the SignUp page in (SignUp frame) at line 15 (used to create accounts) File f
+
+For the Customer Support page in (CustomerSupport frame) at line 19 (used to create new type of file to store CS data) File c
+
+
+Data stored in notepad files at Fresh folder
+
+1) Logins
+2) CustomerSupport
